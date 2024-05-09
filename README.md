@@ -29,8 +29,8 @@ Salt Player for Windows platform
 - 专辑⏩
 - 艺术家⏩
 
-# 歌单⏩
+## 歌单⏩
 
-# 标签
+## 标签
 
 - 标签解析⏩
