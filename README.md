@@ -13,7 +13,7 @@ Salt Player for Windows platform
     - 限制 16 位输出🕒
   - WASAPI⏩
     - 独占模式✅
-  - AISO 声卡🕒
+  - ASIO 声卡🕒 #4(https://github.com/Moriafly/SPW/discussions/4)
   - 采样率转换质量✅
 - 音量模块
   - Windows 合成器访问✅
