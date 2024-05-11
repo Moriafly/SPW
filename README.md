@@ -6,14 +6,16 @@ Salt Player for Windows platform
 ## 音频引擎 SPW AudioEngine（部分授权）
 
 - 控制
-  - 手动管理✅
-  - 自动管理⏩
+  - 手动创建/释放✅
+  - 自动创建✅
 - 音频输出
   - DirectSound⏩
     - 限制 16 位输出🕒
   - WASAPI⏩
     - 独占模式✅
-  - ASIO 声卡🕒 #4(https://github.com/Moriafly/SPW/discussions/4)
+  - ASIO 声卡🕒 https://github.com/Moriafly/SPW/discussions/4
+- 引擎功能
+  - 无间隙播放（Gapless）✅
   - 采样率转换质量✅
 - 音量模块
   - Windows 合成器访问✅
@@ -22,6 +24,12 @@ Salt Player for Windows platform
 - 音频输出信息
   - 文件采样率✅
   - 输出模式、采样率✅
+- 音频解码 https://github.com/Moriafly/SPW/discussions/5
+  - WAV✅
+  - MP1/MP2/MP3✅
+  - FLAC✅
+  - M4A✅
+  - AAC✅
 
 ## 媒体库
 
