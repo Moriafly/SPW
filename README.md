@@ -3,7 +3,7 @@ Salt Player for Windows platform
 
 参与社区讨论，提供对 SPW 的期待，[🔗点击访问](https://github.com/Moriafly/SPW/discussions) 。
 
-## 音频引擎 SPW AudioEngine（部分授权）
+## 音频引擎 SPW Audio Engine（部分授权）
 
 - 控制
   - 手动创建/释放✅
@@ -16,7 +16,7 @@ Salt Player for Windows platform
   - ASIO 声卡🕒 https://github.com/Moriafly/SPW/discussions/4
 - 引擎功能
   - 无间隙播放（Gapless）✅
-  - 采样率转换质量✅
+  - 采样率（支持 44.1 kHz - 384 kHz）转换质量（线性 - Sinc 256）✅
 - 音量模块
   - Windows 合成器访问✅
   - DirectSound 音量曲线✅
