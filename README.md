@@ -2,4 +2,4 @@
 
 Salt Player for Windows platform
 
-参与社区讨论，提供对 SPW 的期待，[🔗点击访问](https://github.com/Moriafly/SPW/discussions) 。
+[Steam](https://store.steampowered.com/app/3009140/Salt_Player_for_Windows/)
