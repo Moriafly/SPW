@@ -43,4 +43,4 @@ Salt Player for Windows (SPW) 是 Salt Player 在 Windows 平台上的全新制�
 # 使用教程（开发中）
 
 - 设置
-  - [外观](tutorials\settings\Appearance.md)
+  - [外观](https://github.com/Moriafly/SPW/blob/main/tutorials/settings/Appearance.md)
