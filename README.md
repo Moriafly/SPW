@@ -1,16 +1,24 @@
 # Salt Player for Windows（椒盐音乐 Windows 版）
 
-2024 年 4 月是 Salt Player 发布的 3 周年，现已正式将 Salt Player for Windows 立项。Salt Player for Windows 将是全新打造的 Windows 端软件，代号 **Voxzen** ，敬请期待
+- **开发代号：** Voxzen
+- **正式立项：** 2024 年 4 月
+- **预计发售：** 2025 年
+- **语言支持：** 简体中文、English
 
-| 项目 | Salt Player for Windows |
-|:-- |:-- |
-| 正式立项 | 2024 年 4 月 |
-| 预计发售 | 2025 年 |
-| 目标平台 | Windows X86（64 位） |
-| 系统支持 | Windows 10、Windows 11 |
-| DirectX 版本 | 7.0 及以上 |
-| 存储空间 | 500 MB 及以上 |
-| 语言支持 | 简体中文、English | 
+# 系统需求
+
+**最低配置**
+
+- **操作系统：** Windows 10
+- **内存：** 500 MB RAM
+- **DirectX 版本：** 7.0
+- **存储空间：** 需要 200 MB 可用空间
+
+**推荐配置**
+- **操作系统：** Windows 11 22H2
+- **内存：** 1000 MB RAM
+- **DirectX 版本：** 9.0
+- **存储空间：** 需要 400 MB 可用空间
 
 # 添加愿望单
 
@@ -44,3 +52,9 @@ Salt Player for Windows (SPW) 是 Salt Player 在 Windows 平台上的全新制�
 
 - 设置
   - [外观](https://github.com/Moriafly/SPW/blob/main/tutorials/settings/Appearance.md)
+
+# 法律信息
+
+Salt Player 是寻浔科技（上海）有限公司在中华人民共和国的注册商标
+
+更多相关法律信息请在软件内部以及相关网站查询
