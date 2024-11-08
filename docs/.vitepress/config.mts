@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SPW",
   description: "Salt Player for Windows",
+  base: '/SPW/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
