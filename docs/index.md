@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "SPW"
-  text: "Salt Player for Windows"
+  text: "Salt Player®\nfor Windows™"
   tagline: My great project tagline
   actions:
     - theme: brand
