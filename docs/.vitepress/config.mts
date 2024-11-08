@@ -24,8 +24,19 @@ export default defineConfig({
       // }
     ],
 
+    outline: {
+      label: '页面导航'
+    },
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Moriafly/SPW' }
-    ]
+    ],
+
+    footer: {
+      copyright: 'Copyright © 2024 Moriafly. All Rights Reserved.'
+    },
+
+    darkModeSwitchLabel: '主题模式',
+    returnToTopLabel: '返回顶部'
   }
 })
