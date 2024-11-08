@@ -14,12 +14,18 @@ hero:
       text: 关于 SPW
       link: /about
 
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-# ---
+features:
+  - title: 全新软件开发
+    details: 5 年播放器设计经验，全新设计的 SPW，由 SPC 核心驱动
+  - title: 全新界面设计
+    details: 基于 Salt UI 2，辅以 Windows 11 设计风格
+  - title: 全新曲风功能
+    details: 智能二级分类 100+ 曲风，内置曲风介绍，内置专业曲风编辑器
+  - title: 优化播放功能
+    details: 与多家音频提供商合作，支持独占模式，支持高精度重采样，支持无间隙播放
+  - title: 优化音乐管理
+    details: 基于独家古琴模块专业分类各种音频，音乐库记录数据不主动抛弃
+  - title: 优化辅助功能
+    details: 多个无障碍功能，让每一位用户都能享受音乐的魅力
+---
 
