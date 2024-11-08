@@ -5,7 +5,7 @@ export default defineConfig({
   title: 'SPW',
   description: 'Salt Player® for Windows™',
   base: '/',
-  head: [['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'shortcut icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // logo: '/logo.png',
