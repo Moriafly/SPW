@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 关于 SPW
       link: /about
+    - theme: alt
+      text: 支持文档
+      link: /doc
 
 features:
   - title: 全新软件开发
