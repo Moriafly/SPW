@@ -6,6 +6,11 @@ export default defineConfig({
   description: 'Salt Player® for Windows™',
   base: '/',
   head: [['link', { rel: 'shortcut icon', href: '/favicon.ico' }]],
+  markdown: {
+    toc: {
+      // level: [1, 2]
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // logo: '/logo.png',

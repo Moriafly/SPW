@@ -14,6 +14,9 @@ hero:
       text: 关于 SPW
       link: /about
     - theme: alt
+      text: 更新日志
+      link: /changelog
+    - theme: alt
       text: 支持文档
       link: /doc
 
