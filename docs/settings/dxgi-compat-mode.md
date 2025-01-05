@@ -1,5 +1,7 @@
 # DXGI 兼容模式 <Badge type="tip" text="1.0.785" /> <Badge type="warning" text="Beta" />
 
+相关问题：[#1053](https://github.com/Moriafly/SaltPlayerSource/issues/1053)
+
 当在 Windows 11 21H2 以上版本使用 SPW，在【设置】->【外观】页面的【主题】选项卡的【样式】选项中选择了“亚克力”或者“云母”后发现窗口背景不正常，可以尝试启用“DXGI 兼容模式”。
 
 ::: warning 启用后的副作用（缺陷）
