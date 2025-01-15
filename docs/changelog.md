@@ -32,7 +32,7 @@
 
 违反以上规定将视严重情况处理。
 
-立刻加入 [SPW 演示版本测试群（TG）](https://t.me/+iVn5ypF1xf80NGE9)。
+立刻加入 [SPW 演示版本测试群（TG）](https://t.me/+g2VUJNJsy8k5NGJl)。
 
 SPW 尊重版权，在开发中尽力避免各种问题，若发现问题请在 SPS 仓库反馈，会尽快处理。
 
