@@ -2,7 +2,7 @@
 
 ## 官网网站
 
-[spw.moriafly.com](https://spw.moriafly.com)
+[moriafly.com/program/spw](https://moriafly.com/program/spw)
 
 ## 添加愿望单
 
